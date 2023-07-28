@@ -21,11 +21,11 @@
 62/home/lukasz/Pulpit/CSS Course/Natours_project/dist/index.html1690394102003999375 0
 80/home/lukasz/Pulpit/CSS Course/Natours_project/dist/linea-basic-10.c63649d9.woff1690394101959998870 0
 70/home/lukasz/Pulpit/CSS Course/Natours_project/dist/nat-4.edc3d12b.jpg1689792089440754714 0
-70/home/lukasz/Pulpit/CSS Course/Natours_project/dist/index.8d8029cf.css1690394123616246970 0
+70/home/lukasz/Pulpit/CSS Course/Natours_project/dist/index.8d8029cf.css1690394319666468180 0
 80/home/lukasz/Pulpit/CSS Course/Natours_project/dist/linea-basic-10.41850c53.woff1689792089676758251 0
 70/home/lukasz/Pulpit/CSS Course/Natours_project/dist/video.9767017b.mp41689792089280752315 0
 69/home/lukasz/Pulpit/CSS Course/Natours_project/dist/hero.d3768954.jpg1690394101983999146 0
-68/home/lukasz/Pulpit/CSS Course/Natours_project/sass/pages/_home.scss1690394123368244132 0
+68/home/lukasz/Pulpit/CSS Course/Natours_project/sass/pages/_home.scss1690394224249392253 0
 74/home/lukasz/Pulpit/CSS Course/Natours_project/sass/abstracts/_mixins.scss1690221881299552848 0
 69/home/lukasz/Pulpit/CSS Course/Natours_project/sass/layout/_grid.scss1690298241256067734 0
 71/home/lukasz/Pulpit/CSS Course/Natours_project/sass/layout/_header.scss1690297286271480317 0
@@ -510,7 +510,7 @@
 95/home/lukasz/Pulpit/CSS Course/Natours_project/node_modules/@swc/helpers/_/_to_consumable_array1688064287660808807 1
 92/home/lukasz/Pulpit/CSS Course/Natours_project/node_modules/@swc/helpers/_/_get_prototype_of1688064287648813743 1
 97/home/lukasz/Pulpit/CSS Course/Natours_project/node_modules/@swc/helpers/_/_ts_param/package.json1688064287660808807 0
-74/home/lukasz/Pulpit/CSS Course/Natours_project/dist/index.8d8029cf.css.map1690394123620247016 0
+74/home/lukasz/Pulpit/CSS Course/Natours_project/dist/index.8d8029cf.css.map1690394319666468180 0
 104/home/lukasz/Pulpit/CSS Course/Natours_project/node_modules/@swc/helpers/_/_async_generator/package.json1688064287632820323 0
 91/home/lukasz/Pulpit/CSS Course/Natours_project/node_modules/@swc/helpers/_/_async_generator1688064287632820323 1
 83/home/lukasz/Pulpit/CSS Course/Natours_project/node_modules/sass/types/options.d.ts1688064292343034251 0
@@ -2628,7 +2628,7 @@
 104/home/lukasz/Pulpit/CSS Course/Natours_project/node_modules/caniuse-lite/data/features/css-snappoints.js1688064289604038639 0
 74/home/lukasz/Pulpit/CSS Course/Natours_project/node_modules/ordered-binary1688064287404914097 1
 56/home/lukasz/Pulpit/CSS Course/Natours_project/sass/base1690390878088158439 1
-66/home/lukasz/Pulpit/CSS Course/Natours_project/.idea/workspace.xml1690394123404244545 0
+66/home/lukasz/Pulpit/CSS Course/Natours_project/.idea/workspace.xml1690395270961469708 0
 96/home/lukasz/Pulpit/CSS Course/Natours_project/node_modules/css-select/lib/esm/attributes.js.map1688064287496876259 0
 94/home/lukasz/Pulpit/CSS Course/Natours_project/node_modules/xxhash-wasm/cjs/xxhash-wasm.js.map1688064287356933839 0
 78/home/lukasz/Pulpit/CSS Course/Natours_project/node_modules/msgpackr/README.md1688064287572845001 0
@@ -2657,7 +2657,7 @@
 98/home/lukasz/Pulpit/CSS Course/Natours_project/node_modules/@parcel/core/test/fixtures/main-global1688064292163096902 1
 129/home/lukasz/Pulpit/CSS Course/Natours_project/node_modules/@parcel/optimizer-svgo/node_modules/mdn-data/css/at-rules.schema.json1688064287372927259 0
 117/home/lukasz/Pulpit/CSS Course/Natours_project/node_modules/csso/node_modules/css-tree/lib/syntax/node/Parentheses.js1688064287632820323 0
-73/home/lukasz/Pulpit/CSS Course/Natours_project/sass/components/_form.scss1688764406353097240 0
+73/home/lukasz/Pulpit/CSS Course/Natours_project/sass/components/_form.scss1690394319490466203 0
 138/home/lukasz/Pulpit/CSS Course/Natours_project/node_modules/@parcel/optimizer-svgo/node_modules/css-tree/lib/syntax/scope/atrulePrelude.js1688064287416909162 0
 60/home/lukasz/Pulpit/CSS Course/Natours_project/img/nat-1.jpg1687298648556201000 0
 95/home/lukasz/Pulpit/CSS Course/Natours_project/node_modules/css-tree/cjs/syntax/scope/index.cjs1688064287560849936 0
@@ -3334,7 +3334,7 @@
 99/home/lukasz/Pulpit/CSS Course/Natours_project/node_modules/ordered-binary/.idea/ordered-binary.iml1688064287324947000 0
 116/home/lukasz/Pulpit/CSS Course/Natours_project/node_modules/css-select/node_modules/domutils/lib/esm/querying.js.map1688064287496876259 0
 82/home/lukasz/Pulpit/CSS Course/Natours_project/node_modules/color-convert/index.js1687972801045508120 0
-57/home/lukasz/Pulpit/CSS Course/Natours_project/sass/pages1690394123368244132 1
+57/home/lukasz/Pulpit/CSS Course/Natours_project/sass/pages1690394224249392253 1
 80/home/lukasz/Pulpit/CSS Course/Natours_project/node_modules/safe-buffer/index.js1687972800985507266 0
 95/home/lukasz/Pulpit/CSS Course/Natours_project/node_modules/caniuse-lite/data/features/video.js1688064289803961682 0
 86/home/lukasz/Pulpit/CSS Course/Natours_project/node_modules/color-convert/package.json1687972800981507209 0
@@ -3701,7 +3701,7 @@
 111/home/lukasz/Pulpit/CSS Course/Natours_project/node_modules/caniuse-lite/data/features/css-media-interaction.js1688064289600040178 0
 91/home/lukasz/Pulpit/CSS Course/Natours_project/node_modules/caniuse-lite/data/regions/NI.js1688064289723992465 0
 115/home/lukasz/Pulpit/CSS Course/Natours_project/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb/midl.c1688064287564848291 0
-62/home/lukasz/Pulpit/CSS Course/Natours_project/sass/components1690393597561967084 1
+62/home/lukasz/Pulpit/CSS Course/Natours_project/sass/components1690394319490466203 1
 80/home/lukasz/Pulpit/CSS Course/Natours_project/node_modules/ordered-binary/tests1688064287356933839 1
 100/home/lukasz/Pulpit/CSS Course/Natours_project/node_modules/@parcel/optimizer-svgo/node_modules/.bin1688064302296074362 1
 103/home/lukasz/Pulpit/CSS Course/Natours_project/node_modules/@lmdb/lmdb-linux-x64/node.abi108.glibc.node1688064287476884484 0
@@ -4146,7 +4146,7 @@
 98/home/lukasz/Pulpit/CSS Course/Natours_project/node_modules/@parcel/transformer-babel/lib/utils.js1688064288128618004 0
 84/home/lukasz/Pulpit/CSS Course/Natours_project/node_modules/@parcel/packager-css/lib1688064288420501838 1
 86/home/lukasz/Pulpit/CSS Course/Natours_project/node_modules/@parcel/hash/index.js.flow1688064290815582485 0
-51/home/lukasz/Pulpit/CSS Course/Natours_project/dist1690394123620247016 1
+51/home/lukasz/Pulpit/CSS Course/Natours_project/dist1690394319666468180 1
 87/home/lukasz/Pulpit/CSS Course/Natours_project/node_modules/@parcel/watcher/binding.gyp1688064287452894355 0
 84/home/lukasz/Pulpit/CSS Course/Natours_project/node_modules/@parcel/packager-css/src1688064288420501838 1
 108/home/lukasz/Pulpit/CSS Course/Natours_project/node_modules/caniuse-lite/data/features/picture-in-picture.js1688064289723992465 0
@@ -4412,7 +4412,7 @@
 107/home/lukasz/Pulpit/CSS Course/Natours_project/node_modules/@parcel/transformer-json/src/JSONTransformer.js1688064287880718323 0
 97/home/lukasz/Pulpit/CSS Course/Natours_project/node_modules/@parcel/transformer-json/package.json1688064287884716678 0
 91/home/lukasz/Pulpit/CSS Course/Natours_project/node_modules/caniuse-lite/data/regions/KE.js1688064289672012474 0
-52/home/lukasz/Pulpit/CSS Course/Natours_project/.idea1690394123404244545 1
+52/home/lukasz/Pulpit/CSS Course/Natours_project/.idea1690395270961469708 1
 131/home/lukasz/Pulpit/CSS Course/Natours_project/node_modules/@parcel/optimizer-htmlnano/node_modules/css-tree/lib/parser/sequence.js1688064287604831839 0
 84/home/lukasz/Pulpit/CSS Course/Natours_project/node_modules/@parcel/profiler/LICENSE1688064290795589928 0
 91/home/lukasz/Pulpit/CSS Course/Natours_project/node_modules/@parcel/source-map/dist/node.js1688064287392919033 0
